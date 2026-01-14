@@ -16,7 +16,7 @@ LTX-2 is a heavy DiT (Diffusion Transformer) model.
 *   **Storage:** SSD with at least 20GB free space for models.
 
 ### Software Requirements
-*   **Unreal Engine:** 5.4 or 5.5+.
+*   **Unreal Engine:** 5.5+.
 *   **OS:** Windows 10/11.
 *   **ComfyUI:** Latest version (Installed locally).
 
