@@ -6,6 +6,8 @@ This plugin operates as a "Bridge." It connects Unreal Engine (Frontend) to a lo
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C616ULD4)
+
 ## 📋 Prerequisites
 
 ### Hardware Requirements
