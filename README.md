@@ -1,12 +1,11 @@
 # UELTX2: Curated Generation (LTX-2 Bridge for UE5)
+![image](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=blue) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=blue) ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![image](https://img.shields.io/badge/MIT-green?style=for-the-badge) ![alt text](https://img.shields.io/github/stars/gregorik/InstantOrganicCaves) ![alt text](https://img.shields.io/badge/Support-Patreon-red) [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@agregori) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C616ULD4)
 
 **UELTX2** is a native Unreal Engine 5 plugin that integrates **Lightricks LTX-2**, a state-of-the-art generative video model. It allows developers to generate 4K cinematic video assets, dynamic textures, and animatics directly inside the Unreal Editor.
 
 This plugin operates as a "Bridge." It connects Unreal Engine (Frontend) to a local **ComfyUI** instance (Backend) handling the heavy AI inference.
 
 ---
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C616ULD4)
 
 ## 📋 Prerequisites
 
@@ -126,5 +125,5 @@ A: It shouldn't. The request is asynchronous. However, if your GPU VRAM is maxed
 ---
 
 ## 📄 License
-This plugin logic is GPL3. The LTX-2 Model weights are subject to Lightricks' Open Access License (Non-Commercial/Research usually, check HuggingFace for updates).
+This plugin logic is MIT. The LTX-2 Model weights are subject to Lightricks' Open Access License (Non-Commercial/Research usually, check HuggingFace for updates).
 ```
