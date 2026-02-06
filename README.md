@@ -5,6 +5,9 @@
 
 This plugin operates as a "Bridge." It connects Unreal Engine (Frontend) to a local **ComfyUI** instance (Backend) handling the heavy AI inference.
 
+[Update video 1](https://youtu.be/I3-Cy5k4OAA) <br>
+[Update video 2](https://youtu.be/iWeABERR-RU)
+
 ---
 
 ## 📋 Prerequisites
