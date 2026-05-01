@@ -5,6 +5,8 @@
 
 This plugin operates as a "Bridge." It connects Unreal Engine (Frontend) to a local **ComfyUI** instance (Backend) handling the heavy AI inference.
 
+If you have consulting and/or custom pipeline integration in mind: I offer dedicated architecture consulting. 📬 Please [contact me](https://gregorigin.com/contact.html) or see my [extended portfolio](https://www.gregorigin.com/Portfolio/). 👨‍💻 
+
 [Update video 1](https://youtu.be/I3-Cy5k4OAA) <br>
 [Update video 2](https://youtu.be/iWeABERR-RU)
 
